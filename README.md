@@ -5,7 +5,7 @@ This is a simple implementation of the classic board game, Chess. It uses HTML, 
 Installation
 
 Download or clone the repository to your local machine.
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/rayancheca/chess.git
 
 Navigate to the project directory.
 cd yourrepository
